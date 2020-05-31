@@ -1,2 +1,4 @@
 # Papaya
-An online payment system that allows you to invest in people and their projects, all while getting something in return!
+Papaya is an online payment and investment platform that allows you to invest in people and their projects, just like you would invest in a company's stock. Upon sign up, simply enter your payment information and your areas of interest and Papaya will help you create a diverse portfolio of different projects based on your interests. The money invested through Papaya serve as a loan for budding entrepreneurs, and as an investor, you'll be getting a return on your investment in the form of money or rewards from the projects you invest in--it may be gift cards, inventions, early access to games, and more! 
+
+Additionally, you can crowdfund your own projects on Papaya, under the same account, and there is no need to worry about not reaching funding goals, as the Papaya algorithm will help pull in enough funds for your needs.urn!
